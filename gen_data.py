@@ -3,7 +3,6 @@ import json
 
 import requests
 
-snapshot_file = "../stakedrop/snapshot-29-01-2023.csv"
 node = "https://osmosis-mainnet-rpc.allthatnode.com:1317"
 
 '''WIP why is it not working ?'''
@@ -21,7 +20,7 @@ def get_tx_by_hash(hash: str):
    )
    return resp.json()
 
-tx_resp = get_tx_by_hash("1A20E4A1F89D9DC6D8F5CAAAEA84AF5CE5E130493AFF789462AF5E8B13E00A78")
+tx_resp = get_tx_by_hash("ED7AE25116CE5101D326489FC4A030EF0B588B91C58E65F3383847441097719C")
 
 messages = tx_resp['tx']['body']['messages']
 total = sum(int(msg['amount'][0]['amount']) for msg in messages)
