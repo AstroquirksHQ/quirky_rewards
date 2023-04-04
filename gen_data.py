@@ -20,7 +20,7 @@ def get_tx_by_hash(hash: str):
    )
    return resp.json()
 
-tx_resp = get_tx_by_hash("ED7AE25116CE5101D326489FC4A030EF0B588B91C58E65F3383847441097719C")
+tx_resp = get_tx_by_hash("CF001F6398DB9B89FB107EE2D12627FDAA0773FE35DF3FB8D936D6780F07192E")
 
 messages = tx_resp['tx']['body']['messages']
 total = sum(int(msg['amount'][0]['amount']) for msg in messages)
