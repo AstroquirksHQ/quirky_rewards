@@ -15,6 +15,576 @@
       }
     },
     {
+      "date": "2023-05-09T21:36:54+0100",
+      "tx_hash": "488AA476A7A9F110FC5E95ED17B87EFC881881BED82DA36742B3EA259C40F46F",
+      "commission": {
+        "amount": "4908",
+        "currency": "STARS"
+      },
+      "currency": "HUAHUA",
+      "amount": "914235",
+      "snapshot": {
+        "block_height": "",
+        "data": [
+          {
+            "address": "osmo17vz8hvg96lddwawdfygvu89ua4v7qgd6p3m9ry",
+            "amount": "432663744306",
+            "share": "0.48307293383759123655"
+          },
+          {
+            "address": "osmo1s43l7s99hx627scn2ldd3ey50qpj9frv073xj7",
+            "amount": "174487351550",
+            "share": "0.19481668602949954312"
+          },
+          {
+            "address": "osmo1f4n4a3xyun8ntgk9skh50t2l884vfyej0hef6g",
+            "amount": "155478818840",
+            "share": "0.17359348952872405702"
+          },
+          {
+            "address": "osmo1d0zydkzyw5jw0dwusp603uxpu75u4sht2stdhh",
+            "amount": "23716089526",
+            "share": "0.02647922572032554093"
+          },
+          {
+            "address": "osmo1axrtywdnv9h74hr207kg2e942tvk9c5mcrsy36",
+            "amount": "17486000027",
+            "share": "0.01952327516528162659"
+          },
+          {
+            "address": "osmo1489a36405052np9vgf4ajzam4taphu39rs0tvj",
+            "amount": "13788863863",
+            "share": "0.01539538962588823363"
+          },
+          {
+            "address": "osmo1x0l6m4pz9svwuk3g2syqpf47p909thrx60mmrl",
+            "amount": "13639146853",
+            "share": "0.01522822924737743123"
+          },
+          {
+            "address": "osmo17cuqwvtjpkdlxl2hcp2zj7yr6e9ctsnz367cxq",
+            "amount": "13056074497",
+            "share": "0.01457722375556227058"
+          },
+          {
+            "address": "osmo15rce70qlpcztvvekjwpv4fx3s5k2ujje92lewt",
+            "amount": "10229360139",
+            "share": "0.01142117193469569173"
+          },
+          {
+            "address": "osmo1k7vfxrg3krh5yzkfzea5m7lkvhmcuffzcwqu2j",
+            "amount": "7074659570",
+            "share": "0.00789892058060918081"
+          },
+          {
+            "address": "osmo1uq9u0d70tj69cvn82gz0ereg20ym3v6xl08ys4",
+            "amount": "4230385983",
+            "share": "0.00472326372377509327"
+          },
+          {
+            "address": "osmo1kqgv4aj3l5g90p8qepvdwkpneqe32d2txr63yz",
+            "amount": "3414389925",
+            "share": "0.003812196838866006"
+          },
+          {
+            "address": "osmo15gtj2a4uplzv0k77shygv278ex8wrafre44f48",
+            "amount": "3409786713",
+            "share": "0.00380705731156523058"
+          },
+          {
+            "address": "osmo1j7gme9jqtlczwlr3725xwc09s63ksnqlre85r2",
+            "amount": "3409445734",
+            "share": "0.00380667660546707757"
+          },
+          {
+            "address": "osmo1wpdrvn7dew5etz9wrk0aqa0pkkul4uq8xvr8yq",
+            "amount": "2492007020",
+            "share": "0.00278234808933718834"
+          },
+          {
+            "address": "osmo1qamfln8u5w8d3vlhp5t9mhmylfkgad4junm4fz",
+            "amount": "2151708111",
+            "share": "0.00240240131885831556"
+          },
+          {
+            "address": "osmo1502yj0d8wac7w5pe4ve36ra4pfsd24txykvmh7",
+            "amount": "1909480559",
+            "share": "0.00213195209416390662"
+          },
+          {
+            "address": "osmo17d5d4qf56ak2dfn4cjgc2qdqrvh76ha0df2eta",
+            "amount": "1762859730",
+            "share": "0.00196824862938587216"
+          },
+          {
+            "address": "osmo10estj489m8plmn6j84hj04ww693hcrqdtj5u4j",
+            "amount": "1418130294",
+            "share": "0.00158335513595065441"
+          },
+          {
+            "address": "osmo12kct4cfuwh7vevec7c4y9slmee949qrjanfah9",
+            "amount": "1363914685",
+            "share": "0.00152282292440279044"
+          },
+          {
+            "address": "osmo1rph5tumanl5ndpj0sga7sy39kkjr0ghnck2k02",
+            "amount": "1325725073",
+            "share": "0.00148018388160397499"
+          },
+          {
+            "address": "osmo1tk062ueryn03wecn84k7wssmx7xmxt26vj2qh0",
+            "amount": "1069309113",
+            "share": "0.00119389317268712735"
+          },
+          {
+            "address": "osmo1p6448wmlkmzu4ahmsyeta62x79kmfphlwxp5dn",
+            "amount": "864060583",
+            "share": "0.00096473135624699285"
+          },
+          {
+            "address": "osmo1gj0klcaulj4u9e780qh92uagjmjp3qf6sft024",
+            "amount": "795162261",
+            "share": "0.00088780576453046616"
+          },
+          {
+            "address": "osmo1e533m29emngs7camh5rjzpxkr0ngyuekx78z06",
+            "amount": "778780896",
+            "share": "0.00086951582423628308"
+          },
+          {
+            "address": "osmo10qmxtp4shzn0y7j0sce36zddu9ku4wucrdg8w5",
+            "amount": "770416198",
+            "share": "0.00086017656422963085"
+          },
+          {
+            "address": "osmo1kjr2ahuv0v93rk2v5fu0vqax9k80szmv5whfme",
+            "amount": "753562863",
+            "share": "0.00084135966521615634"
+          },
+          {
+            "address": "osmo1jpvxqtd5uq5q4nljgu0zr0d25u6605gq6lw5vg",
+            "amount": "735488020",
+            "share": "0.00082117894161365234"
+          },
+          {
+            "address": "osmo15h86s80z69kmprny2y7dufg9p6wfdnyh246z3n",
+            "amount": "692224890",
+            "share": "0.00077287527066562813"
+          },
+          {
+            "address": "osmo19rcfska5cmw58v6xyanjhasthqpjku2p4nws40",
+            "amount": "681957342",
+            "share": "0.00076141146164314076"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-05-09T15:12:10+0100",
+      "tx_hash": "72A6BE7923576511F31A7CDC270230C3BBDB43B441765D6A84E004D4662779FA",
+      "commission": {
+        "amount": "248",
+        "currency": "OSMO"
+      },
+      "currency": "HUAHUA",
+      "amount": "2498602",
+      "snapshot": {
+        "block_height": "",
+        "data": [
+          {
+            "address": "osmo17vz8hvg96lddwawdfygvu89ua4v7qgd6p3m9ry",
+            "amount": "940278895657",
+            "share": "0.44345097028637485215"
+          },
+          {
+            "address": "osmo1s43l7s99hx627scn2ldd3ey50qpj9frv073xj7",
+            "amount": "207356180707",
+            "share": "0.09779258042917820254"
+          },
+          {
+            "address": "osmo1f4n4a3xyun8ntgk9skh50t2l884vfyej0hef6g",
+            "amount": "199801860556",
+            "share": "0.09422983897418240297"
+          },
+          {
+            "address": "osmo1j65p8eyn5u08ets4eqksrj43hz7mjpv98vsfus",
+            "amount": "69745513879",
+            "share": "0.03289312984224067642"
+          },
+          {
+            "address": "osmo14x7s5jcup6danjrhvxfajj62jfgnlsdaxaa7f6",
+            "amount": "64740435953",
+            "share": "0.03053265288918433529"
+          },
+          {
+            "address": "osmo1tntlr6g3f5mzkguxl58v7y9z403x9fzl5k7v57",
+            "amount": "64430781394",
+            "share": "0.0303866147134086231"
+          },
+          {
+            "address": "osmo1axrtywdnv9h74hr207kg2e942tvk9c5mcrsy36",
+            "amount": "43177447654",
+            "share": "0.02036319345791212454"
+          },
+          {
+            "address": "osmo1xe99zszd0zqzxc75kvky0hxvvzgkj3lyadx8e5",
+            "amount": "40492451479",
+            "share": "0.01909690516353643963"
+          },
+          {
+            "address": "osmo1kqgv4aj3l5g90p8qepvdwkpneqe32d2txr63yz",
+            "amount": "29966422224",
+            "share": "0.01413265688788945054"
+          },
+          {
+            "address": "osmo10efrdu7x6d6hmy5srvgxk26lxm2875rf9t474f",
+            "amount": "29844176934",
+            "share": "0.01407500400137479435"
+          },
+          {
+            "address": "osmo1ka8twg94gtqhmhw8x9z6xtnhfmejy2rw7vy8fd",
+            "amount": "28842722724",
+            "share": "0.01360270174810389388"
+          },
+          {
+            "address": "osmo15ea5sfdcvyvta662xpsn2ugmxz234vrkwgxznf",
+            "amount": "25782811834",
+            "share": "0.01215959751655329065"
+          },
+          {
+            "address": "osmo1k7vfxrg3krh5yzkfzea5m7lkvhmcuffzcwqu2j",
+            "amount": "25298114047",
+            "share": "0.01193100607955137424"
+          },
+          {
+            "address": "osmo18x855kwcr4sxq3sc6gdq55arshylrfsksqayns",
+            "amount": "23722064626",
+            "share": "0.01118771528764926817"
+          },
+          {
+            "address": "osmo1d0zydkzyw5jw0dwusp603uxpu75u4sht2stdhh",
+            "amount": "23241761433",
+            "share": "0.0109611964133543484"
+          },
+          {
+            "address": "osmo1l0zaezprhjh05v4zjay67ddeqm2hje8a892y4t",
+            "amount": "21311076520",
+            "share": "0.01005065369890908942"
+          },
+          {
+            "address": "osmo1edqav26hnv50spemlv54hmv6c6j9sqfsl5dn28",
+            "amount": "21211573797",
+            "share": "0.01000372658051443985"
+          },
+          {
+            "address": "osmo1j7gme9jqtlczwlr3725xwc09s63ksnqlre85r2",
+            "amount": "21156486717",
+            "share": "0.00997774660883893573"
+          },
+          {
+            "address": "osmo1g0zkf489f9urfndz72n77yhuxw5h926q208mf4",
+            "amount": "20736635455",
+            "share": "0.00977973785806317017"
+          },
+          {
+            "address": "osmo15rce70qlpcztvvekjwpv4fx3s5k2ujje92lewt",
+            "amount": "17656992587",
+            "share": "0.0083273277016107266"
+          },
+          {
+            "address": "osmo1pmj2mtg03k4klkxkr49c3ukfhreygwj50j7xr8",
+            "amount": "14421191893",
+            "share": "0.00680127094968819639"
+          },
+          {
+            "address": "osmo1uq9u0d70tj69cvn82gz0ereg20ym3v6xl08ys4",
+            "amount": "13353045392",
+            "share": "0.00629751551663077469"
+          },
+          {
+            "address": "osmo1d4hpzu2jut8vzq696gufhx2sp9xd5uk98hzpcq",
+            "amount": "13180491224",
+            "share": "0.00621613613698077001"
+          },
+          {
+            "address": "osmo1qamfln8u5w8d3vlhp5t9mhmylfkgad4junm4fz",
+            "amount": "12206205794",
+            "share": "0.00575664712657658173"
+          },
+          {
+            "address": "osmo1wpdrvn7dew5etz9wrk0aqa0pkkul4uq8xvr8yq",
+            "amount": "11097781277",
+            "share": "0.00523389591964939779"
+          },
+          {
+            "address": "osmo1plqn3j5272katu9leffl8ysc8kgparcrgap89v",
+            "amount": "10628166309",
+            "share": "0.00501241778780736198"
+          },
+          {
+            "address": "osmo12kct4cfuwh7vevec7c4y9slmee949qrjanfah9",
+            "amount": "10578243358",
+            "share": "0.00498887330418365965"
+          },
+          {
+            "address": "osmo1tk062ueryn03wecn84k7wssmx7xmxt26vj2qh0",
+            "amount": "9432449927",
+            "share": "0.00444849830366886227"
+          },
+          {
+            "address": "osmo1u96xkp0rth26p3tr69hnzn9vl7kysmzmxh5hja",
+            "amount": "8775078322",
+            "share": "0.00413847105811181544"
+          },
+          {
+            "address": "osmo15htymnke3pm0s4m4txn4ef3jaj6k7736myju4e",
+            "amount": "8140522338",
+            "share": "0.00383920403414101057"
+          },
+          {
+            "address": "osmo1zkgd39ejlx543evahr32mywm2jk84vkw0anvwr",
+            "amount": "7207793304",
+            "share": "0.00339931370261063503"
+          },
+          {
+            "address": "osmo1r75xf6ht5yhhv2lyz3e50fcjdjsqnhhyputuj7",
+            "amount": "6598959324",
+            "share": "0.00311217759818316415"
+          },
+          {
+            "address": "osmo1gjzs0qd88puzl3w875tetg82ryh2geg03x6fru",
+            "amount": "6357524258",
+            "share": "0.00299831285573986406"
+          },
+          {
+            "address": "osmo1w4359wxq8egk2ucq4g7l6zd0z3udaful38tgpf",
+            "amount": "4337079777",
+            "share": "0.00204543805481905607"
+          },
+          {
+            "address": "osmo1fnx2uxe632f4uw5uqewds5gamqw9q5p959xqmy",
+            "amount": "4240342873",
+            "share": "0.00199981534209048231"
+          },
+          {
+            "address": "osmo1egj99ytf390kuek55y00sefcxl7re0pjzwj6ne",
+            "amount": "4229226959",
+            "share": "0.00199457289448085515"
+          },
+          {
+            "address": "osmo152r6lxwas7kywdr0xk4sx305dy6mxyz6ez8h99",
+            "amount": "4030337429",
+            "share": "0.00190077332558095472"
+          },
+          {
+            "address": "osmo1e533m29emngs7camh5rjzpxkr0ngyuekx78z06",
+            "amount": "3596266523",
+            "share": "0.00169605835715205249"
+          },
+          {
+            "address": "osmo1n3f9rc5hkxp3xnat5kv8jsqctfgqd4g4vfrylp",
+            "amount": "2660661444",
+            "share": "0.00125481163556365472"
+          },
+          {
+            "address": "osmo18y2yjx5rkly2qf49d84m757fq7t9pf909a8shj",
+            "amount": "2644560839",
+            "share": "0.0012472183258101067"
+          },
+          {
+            "address": "osmo1ffmtjltr4lfmlgdj0uq9e7zjjwc06h59tndyd3",
+            "amount": "2637396967",
+            "share": "0.00124383972611582381"
+          },
+          {
+            "address": "osmo1rlcw7ze0x05ua7hgahxuk0u84fz6vz5fk0tdsl",
+            "amount": "2127932032",
+            "share": "0.00100356769534268158"
+          },
+          {
+            "address": "osmo1g5hcjw4qa59vmc08mzaa3gl7dlf9azk0uhxhk8",
+            "amount": "2062757454",
+            "share": "0.00097283029393380433"
+          },
+          {
+            "address": "osmo15jydgrdfnf0ea4srxkgetpz2spd4vdfl8s8k9a",
+            "amount": "1707941846",
+            "share": "0.00080549342572683505"
+          },
+          {
+            "address": "osmo1n33rlu3nst90qfrm7mqr90wfe24k6ujy9uegfn",
+            "amount": "1586630721",
+            "share": "0.00074828110676885906"
+          },
+          {
+            "address": "osmo10egt9ncjav6fe9l5zay8z6drnshepxqlzdkaqt",
+            "amount": "1544184060",
+            "share": "0.00072826256429937756"
+          },
+          {
+            "address": "osmo19354fen9xkgyew0rnqt4uch4mnuyaf3npmrdl7",
+            "amount": "1477528602",
+            "share": "0.00069682675556059971"
+          },
+          {
+            "address": "osmo1y2j0zqwdw7uw7h7m7awlhvsa8rnc885ppqavjs",
+            "amount": "1459797583",
+            "share": "0.000688464515786812"
+          },
+          {
+            "address": "osmo19a0flgcxf4fx4jww0uszxjnk8vxacac04sp5js",
+            "amount": "1388654718",
+            "share": "0.00065491237220588134"
+          },
+          {
+            "address": "osmo1ylgnp63wzfmmfahq8w3lmhwku7skc3rf6yquh4",
+            "amount": "1366208045",
+            "share": "0.00064432615255602328"
+          },
+          {
+            "address": "osmo1mht0kms6z9phnksc8p9yedtxkgdarlku9qajtl",
+            "amount": "1269389203",
+            "share": "0.00059866479652090382"
+          },
+          {
+            "address": "osmo1887numy7hj8jyzmce57fcl8smum0mq42px3lxw",
+            "amount": "1252010312",
+            "share": "0.00059046862609524913"
+          },
+          {
+            "address": "osmo1rph5tumanl5ndpj0sga7sy39kkjr0ghnck2k02",
+            "amount": "1245905693",
+            "share": "0.00058758958751288564"
+          },
+          {
+            "address": "osmo1kyqgy8eax7ms07f83edvstnjyc7976ucmpcv9y",
+            "amount": "1222016095",
+            "share": "0.00057632286073449804"
+          },
+          {
+            "address": "osmo1hpu7lsa7d9htqt5l7pjy5yc02x8rnd94cnsjwj",
+            "amount": "1222016095",
+            "share": "0.00057632286073449804"
+          },
+          {
+            "address": "osmo1vnlnnt8l7jxssrgr6qax6tvtd5u2t8cuyqgyxw",
+            "amount": "1205044223",
+            "share": "0.00056831864715410349"
+          },
+          {
+            "address": "osmo1mdqa7huzcfpyw45z0kzrp8pajelzm7uw6ptssg",
+            "amount": "1199797658",
+            "share": "0.00056584428093077687"
+          },
+          {
+            "address": "osmo1sv4kdv8ptnfhpa5qfccnqfpm3t8jq3mpq5l4w9",
+            "amount": "1119187995",
+            "share": "0.00052782743993081948"
+          },
+          {
+            "address": "osmo1nd30kjnngvkj2sls0sh2k64xgg83hpkz3vckfd",
+            "amount": "1095911004",
+            "share": "0.00051684962867505925"
+          },
+          {
+            "address": "osmo1d7x487deav23wghx74e4mw0dcrdumh63cx4asa",
+            "amount": "1095297075",
+            "share": "0.00051656008967551942"
+          },
+          {
+            "address": "osmo1qz96xzx2ayzrafkx59rcnufavtnenhvzmpp5c6",
+            "amount": "1079104302",
+            "share": "0.00050892331197940868"
+          },
+          {
+            "address": "osmo1kjr2ahuv0v93rk2v5fu0vqax9k80szmv5whfme",
+            "amount": "1068402579",
+            "share": "0.00050387620364803423"
+          },
+          {
+            "address": "osmo1herge8shs6huy5mkgvq23lzt4pjqljvqjudgsy",
+            "amount": "1068384405",
+            "share": "0.00050386763249114534"
+          },
+          {
+            "address": "osmo123txn8maeewuyjnd9y50rh40whnhmckxf7nlq9",
+            "amount": "1067597670",
+            "share": "0.00050349659534384823"
+          },
+          {
+            "address": "osmo1gj0klcaulj4u9e780qh92uagjmjp3qf6sft024",
+            "amount": "1057824335",
+            "share": "0.00049888733004107283"
+          },
+          {
+            "address": "osmo12ex3j26jz6fgt5cmgdsvkpgsmwhrwyc2ay55ja",
+            "amount": "993358161",
+            "share": "0.00046848402359338818"
+          },
+          {
+            "address": "osmo1krtvs0vgdmzku03ek7gyt3gmt5u0keac4kwvuw",
+            "amount": "967110197",
+            "share": "0.00045610505267571289"
+          },
+          {
+            "address": "osmo1f24q2t25jyetmwu5m05deellucuglk2jp06nd5",
+            "amount": "925596293",
+            "share": "0.00043652641372698667"
+          },
+          {
+            "address": "osmo1wzyhtkp48l5ja9wfqsuz5kr5dpyqj7l3zznyme",
+            "amount": "875854632",
+            "share": "0.00041306742944478242"
+          },
+          {
+            "address": "osmo12s0edn0erxenjplax2dxazcyh65r58mnxdt3ew",
+            "amount": "735187913",
+            "share": "0.00034672669446107849"
+          },
+          {
+            "address": "osmo1v92dav3kyarp8dsjqve9wqfvyhm5xxqgefmh5q",
+            "amount": "668225411",
+            "share": "0.00031514607872902502"
+          },
+          {
+            "address": "osmo1fpc0k82a9qrrph0ufta7q7ajwj2z6mu3t7aeg9",
+            "amount": "666429331",
+            "share": "0.00031429901790229506"
+          },
+          {
+            "address": "osmo1xcc3pavyn2zj59xe0rrwecyy7n5has0h2jy64c",
+            "amount": "624116358",
+            "share": "0.00029434352488929872"
+          },
+          {
+            "address": "osmo1c62k8j5cckw33qkg6sd4hvs7xs7fk0zh6zlzm0",
+            "amount": "579655927",
+            "share": "0.00027337525541375735"
+          },
+          {
+            "address": "osmo19nl8fmj9h8frr2sq9tcm8hmf0y2vk43vxncdze",
+            "amount": "568603683",
+            "share": "0.00026816283562184316"
+          },
+          {
+            "address": "osmo12w5hh670ltsvwzse76nnnutta6zdzf00z8r6ev",
+            "amount": "557411891",
+            "share": "0.00026288460270119945"
+          },
+          {
+            "address": "osmo1ql87vd4f27a2llr57en5456vp6q5updaqlhkmy",
+            "amount": "539490411",
+            "share": "0.0002544325383916896"
+          },
+          {
+            "address": "osmo1ycm3u0z2m65maee4dv9uvtrdnz687a4y6ck8t4",
+            "amount": "528912167",
+            "share": "0.0002494436647847282"
+          }
+        ]
+      }
+    },
+    {
       "date": "2023-04-04T11:27:27+0200",
       "tx_hash": "CF001F6398DB9B89FB107EE2D12627FDAA0773FE35DF3FB8D936D6780F07192E",
       "commission": {
