@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "prettier:check": "prettier --check .",
+    "lint": "eslint --cache .",
+    "typecheck": "tsc --noEmit",
+    "ci": "pnpm lint && pnpm prettier:check && pnpm typecheck",
+    "build": "rm -rf ./bin && tsc && chmod +x ./bin/index.js"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "@types/node": "^20.2.1",
+    "@types/yargs": "^17.0.24",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6",
+    "axios": "^1.4.0",
+    "bignumber.js": "^9.1.1",
+    "eslint": "^8.41.0",
+    "prettier": "^2.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
+    "yargs": "^17.7.2"
+  }
+}
