@@ -3,7 +3,7 @@ import json
 
 import requests
 
-node = "https://osmosis-mainnet-rpc.allthatnode.com:1317"
+node = "https://osmosis.rest.stakin-nodes.com"
 
 '''WIP why is it not working ?'''
 class CustomEncoder(json.JSONEncoder):
